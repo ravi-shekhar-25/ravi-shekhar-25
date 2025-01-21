@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ravi Shekhar</h1>
-<h3 align="center">A passionate frontend developer & AI/ML Enthusiast from India</h3>
+<h3 align="center">A passionate Frontend Developer & AI/ML Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="350" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
 <p> 🌱 I’m currently learning AI/ML</p>
-
-<p>  ✨ Pre-Final year Undergraduate in CSE </p>
+<p>  ✨ Pre-Final Year Undergraduate in CSE From Rajiv Gandhi Institute of Petroleum Technogy (An Institute of Natinal Importance along the lines of IITs) </p>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
