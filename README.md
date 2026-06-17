@@ -5,7 +5,7 @@
 
 
 <p> 👨‍💻 I’m currently learning AI/ML</p>
-<p>  ✨ Pre-Final Year Undergraduate in CSE From Rajiv Gandhi Institute of Petroleum Technogy (An Institute of Natinal Importance along the lines of IITs) </p>
+<p>  ✨ Undergraduate in CSE From Rajiv Gandhi Institute of Petroleum Technogy (An Institute of National Importance along the lines of IITs) </p>
 <p> 📫 You can reach me at <a href="mailto:ravishekharrkm@gmail.com"> ravishekharrkm@gmail.com </a> </p>
 
 ###
